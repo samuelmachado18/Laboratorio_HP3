@@ -1,6 +1,6 @@
 ﻿namespace TrabajoClase
 {
-    partial class Form1
+    partial class Principal
     {
         /// <summary>
         ///  Required designer variable.
@@ -31,6 +31,9 @@
             menuStrip1 = new MenuStrip();
             principalToolStripMenuItem = new ToolStripMenuItem();
             tablasToolStripMenuItem = new ToolStripMenuItem();
+            clientesToolStripMenuItem = new ToolStripMenuItem();
+            productosToolStripMenuItem = new ToolStripMenuItem();
+            categoriaToolStripMenuItem = new ToolStripMenuItem();
             facturacionToolStripMenuItem = new ToolStripMenuItem();
             facturasToolStripMenuItem = new ToolStripMenuItem();
             informesToolStripMenuItem = new ToolStripMenuItem();
@@ -59,12 +62,35 @@
             principalToolStripMenuItem.Name = "principalToolStripMenuItem";
             principalToolStripMenuItem.Size = new Size(65, 20);
             principalToolStripMenuItem.Text = "Principal";
+            principalToolStripMenuItem.Click += principalToolStripMenuItem_Click;
             // 
             // tablasToolStripMenuItem
             // 
+            tablasToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { clientesToolStripMenuItem, productosToolStripMenuItem, categoriaToolStripMenuItem });
             tablasToolStripMenuItem.Name = "tablasToolStripMenuItem";
             tablasToolStripMenuItem.Size = new Size(52, 20);
             tablasToolStripMenuItem.Text = "Tablas";
+            // 
+            // clientesToolStripMenuItem
+            // 
+            clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
+            clientesToolStripMenuItem.Size = new Size(128, 22);
+            clientesToolStripMenuItem.Text = "Clientes";
+            clientesToolStripMenuItem.Click += clientesToolStripMenuItem_Click;
+            // 
+            // productosToolStripMenuItem
+            // 
+            productosToolStripMenuItem.Name = "productosToolStripMenuItem";
+            productosToolStripMenuItem.Size = new Size(128, 22);
+            productosToolStripMenuItem.Text = "Productos";
+            productosToolStripMenuItem.Click += productosToolStripMenuItem_Click;
+            // 
+            // categoriaToolStripMenuItem
+            // 
+            categoriaToolStripMenuItem.Name = "categoriaToolStripMenuItem";
+            categoriaToolStripMenuItem.Size = new Size(128, 22);
+            categoriaToolStripMenuItem.Text = "Categoria";
+            categoriaToolStripMenuItem.Click += categoriaToolStripMenuItem_Click;
             // 
             // facturacionToolStripMenuItem
             // 
@@ -78,12 +104,14 @@
             facturasToolStripMenuItem.Name = "facturasToolStripMenuItem";
             facturasToolStripMenuItem.Size = new Size(121, 22);
             facturasToolStripMenuItem.Text = "facturas";
+            facturasToolStripMenuItem.Click += facturasToolStripMenuItem_Click;
             // 
             // informesToolStripMenuItem
             // 
             informesToolStripMenuItem.Name = "informesToolStripMenuItem";
             informesToolStripMenuItem.Size = new Size(121, 22);
             informesToolStripMenuItem.Text = "informes";
+            informesToolStripMenuItem.Click += informesToolStripMenuItem_Click;
             // 
             // seguridadToolStripMenuItem
             // 
@@ -96,19 +124,22 @@
             // 
             empleadoToolStripMenuItem.Name = "empleadoToolStripMenuItem";
             empleadoToolStripMenuItem.Size = new Size(127, 22);
-            empleadoToolStripMenuItem.Text = "empleado";
+            empleadoToolStripMenuItem.Text = "Empleado";
+            empleadoToolStripMenuItem.Click += empleadoToolStripMenuItem_Click;
             // 
             // rolesToolStripMenuItem
             // 
             rolesToolStripMenuItem.Name = "rolesToolStripMenuItem";
             rolesToolStripMenuItem.Size = new Size(127, 22);
             rolesToolStripMenuItem.Text = "roles";
+            rolesToolStripMenuItem.Click += rolesToolStripMenuItem_Click;
             // 
             // seguridadToolStripMenuItem1
             // 
             seguridadToolStripMenuItem1.Name = "seguridadToolStripMenuItem1";
             seguridadToolStripMenuItem1.Size = new Size(127, 22);
             seguridadToolStripMenuItem1.Text = "seguridad";
+            seguridadToolStripMenuItem1.Click += seguridadToolStripMenuItem1_Click;
             // 
             // ayudaToolStripMenuItem
             // 
@@ -120,14 +151,14 @@
             // ayudaToolStripMenuItem1
             // 
             ayudaToolStripMenuItem1.Name = "ayudaToolStripMenuItem1";
-            ayudaToolStripMenuItem1.Size = new Size(180, 22);
+            ayudaToolStripMenuItem1.Size = new Size(124, 22);
             ayudaToolStripMenuItem1.Text = "ayuda";
             ayudaToolStripMenuItem1.Click += ayudaToolStripMenuItem1_Click;
             // 
             // acercaDeToolStripMenuItem
             // 
             acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
-            acercaDeToolStripMenuItem.Size = new Size(180, 22);
+            acercaDeToolStripMenuItem.Size = new Size(124, 22);
             acercaDeToolStripMenuItem.Text = "acerca de";
             acercaDeToolStripMenuItem.Click += acercaDeToolStripMenuItem_Click;
             // 
@@ -138,7 +169,7 @@
             salirToolStripMenuItem.Text = "Salir";
             salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
             // 
-            // Form1
+            // Principal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -146,7 +177,7 @@
             Controls.Add(menuStrip1);
             IsMdiContainer = true;
             MainMenuStrip = menuStrip1;
-            Name = "Form1";
+            Name = "Principal";
             Text = "Form1";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
@@ -170,5 +201,8 @@
         private ToolStripMenuItem ayudaToolStripMenuItem1;
         private ToolStripMenuItem acercaDeToolStripMenuItem;
         private ToolStripMenuItem salirToolStripMenuItem;
+        private ToolStripMenuItem clientesToolStripMenuItem;
+        private ToolStripMenuItem productosToolStripMenuItem;
+        private ToolStripMenuItem categoriaToolStripMenuItem;
     }
 }

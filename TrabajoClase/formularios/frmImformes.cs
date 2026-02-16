@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TrabajoClase.formularios
+namespace TrabajoClase
 {
-    public partial class FrmAyuda1 : Form
+    public partial class frmImformes : Form
     {
-        public FrmAyuda1()
+        public frmImformes()
         {
             InitializeComponent();
         }

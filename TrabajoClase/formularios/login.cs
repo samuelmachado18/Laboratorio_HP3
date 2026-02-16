@@ -10,22 +10,27 @@ using System.Windows.Forms;
 
 namespace TrabajoClase
 {
-    public partial class formularioHijo1 : Form
+    public partial class login : Form
     {
-        public formularioHijo1()
+        public login()
         {
             InitializeComponent();
         }
 
         private void btnIngreso_Click(object sender, EventArgs e)
         {
-         
-            
-                Form1 form1 = new Form1();
-                form1.Show();
-                this.Hide();
-            
-           
+
+
+            Principal form1 = new Principal();
+            form1.Show();
+            this.Hide();
+
+
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit(); 
         }
     }
 }

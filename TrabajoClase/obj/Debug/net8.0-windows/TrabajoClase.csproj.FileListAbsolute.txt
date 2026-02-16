@@ -3,8 +3,6 @@ C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\bin\Debug\net8.0-windows
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\bin\Debug\net8.0-windows\TrabajoClase.runtimeconfig.json
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\bin\Debug\net8.0-windows\TrabajoClase.dll
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\bin\Debug\net8.0-windows\TrabajoClase.pdb
-C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.Form1.resources
-C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularioHijo1.resources
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.csproj.GenerateResource.cache
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.AssemblyInfoInputs.cache
@@ -19,4 +17,13 @@ C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.Clientes.resources
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.FrmAyuda.resources
 C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.Productos.resources
-C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.FrmAyuda1.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.FrmAcercaDe.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.FrmEmpleados.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.frmFacturas.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.frmImformes.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.FrmRol.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.formularios.FrmSeguridad.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.login.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.Principal.resources
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.sourcelink.json
+C:\Users\USUARIO\source\repos\TrabajoClase\TrabajoClase\obj\Debug\net8.0-windows\TrabajoClase.FrmPrincipal.resources

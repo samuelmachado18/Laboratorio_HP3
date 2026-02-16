@@ -1,6 +1,6 @@
-﻿namespace TrabajoClase.formularios
+﻿namespace TrabajoClase
 {
-    partial class FrmAyuda1
+    partial class frmFacturas
     {
         /// <summary>
         /// Required designer variable.
@@ -28,19 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
+            label1 = new Label();
             SuspendLayout();
             // 
-            // FrmAyuda1
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(351, 210);
+            label1.Name = "label1";
+            label1.Size = new Size(93, 30);
+            label1.TabIndex = 1;
+            label1.Text = "Facturas";
+            // 
+            // frmFacturas
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Name = "FrmAyuda1";
+            Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "frmFacturas";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "FrmAyuda1";
+            Text = "frmFacturas";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label1;
     }
 }

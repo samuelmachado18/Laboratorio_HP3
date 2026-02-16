@@ -1,6 +1,6 @@
 ﻿namespace TrabajoClase.formularios
 {
-    partial class Productos
+    partial class FrmAcercaDe
     {
         /// <summary>
         /// Required designer variable.
@@ -37,20 +37,20 @@
             label1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(351, 210);
             label1.Name = "label1";
-            label1.Size = new Size(113, 30);
+            label1.Size = new Size(106, 30);
             label1.TabIndex = 1;
-            label1.Text = "Productos";
+            label1.Text = "acerca De";
             // 
-            // Productos
+            // FrmAcercaDe
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "Productos";
+            Name = "FrmAcercaDe";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Productos";
+            Text = "FrmAyuda1";
             ResumeLayout(false);
             PerformLayout();
         }

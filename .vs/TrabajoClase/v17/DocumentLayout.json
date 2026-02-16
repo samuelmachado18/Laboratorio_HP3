@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|c:\\users\\usuario\\source\\repos\\trabajoclase\\trabajoclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|c:\\users\\usuario\\source\\repos\\trabajoclase\\trabajoclase\\formularios\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\formularios\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\trabajoclase\\formularios\\frmayuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|c:\\users\\usuario\\source\\repos\\trabajoclase\\trabajoclase\\formularios\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\formularios\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|c:\\users\\usuario\\source\\repos\\trabajoclase\\trabajoclase\\formularios\\frmayuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\formularios\\frmayuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\trabajoclase\\formularios\\frmayuda1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\formularios\\frmayuda1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|c:\\users\\usuario\\source\\repos\\trabajoclase\\trabajoclase\\formulariohijo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\formulariohijo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|c:\\users\\usuario\\source\\repos\\trabajoclase\\trabajoclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\trabajoclase\\formulariohijo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\formulariohijo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\trabajoclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{499DE147-6E0F-41F4-80BB-EA3FE6E0B732}|TrabajoClase\\TrabajoClase.csproj|solutionrelative:trabajoclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,85 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmAyuda1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\FrmAyuda1.cs",
-              "RelativeDocumentMoniker": "TrabajoClase\\formularios\\FrmAyuda1.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\FrmAyuda1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TrabajoClase\\formularios\\FrmAyuda1.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "FrmAcercaDe.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\FrmAcercaDe.cs",
+              "RelativeDocumentMoniker": "TrabajoClase\\formularios\\FrmAcercaDe.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\FrmAcercaDe.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoClase\\formularios\\FrmAcercaDe.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T00:16:21.167Z"
+              "WhenOpened": "2026-02-16T01:22:10.403Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmAyuda.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\FrmAyuda.cs",
               "RelativeDocumentMoniker": "TrabajoClase\\formularios\\FrmAyuda.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\FrmAyuda.cs [Dise\u00F1o]",
               "RelativeToolTip": "TrabajoClase\\formularios\\FrmAyuda.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T00:15:58.413Z"
+              "WhenOpened": "2026-02-16T01:22:06.225Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\Form1.cs",
-              "RelativeDocumentMoniker": "TrabajoClase\\Form1.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\Form1.cs",
-              "RelativeToolTip": "TrabajoClase\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\Principal.cs",
+              "RelativeDocumentMoniker": "TrabajoClase\\formularios\\Principal.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularios\\Principal.cs",
+              "RelativeToolTip": "TrabajoClase\\formularios\\Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T00:01:31.068Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "formularioHijo1.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularioHijo1.cs",
-              "RelativeDocumentMoniker": "TrabajoClase\\formularioHijo1.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularioHijo1.cs",
-              "RelativeToolTip": "TrabajoClase\\formularioHijo1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T23:43:02.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\Program.cs",
-              "RelativeDocumentMoniker": "TrabajoClase\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\Program.cs",
-              "RelativeToolTip": "TrabajoClase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T23:41:15.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "formularioHijo1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularioHijo1.cs",
-              "RelativeDocumentMoniker": "TrabajoClase\\formularioHijo1.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\formularioHijo1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TrabajoClase\\formularioHijo1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T23:33:24.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\Form1.cs",
-              "RelativeDocumentMoniker": "TrabajoClase\\Form1.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TrabajoClase\\TrabajoClase\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TrabajoClase\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T23:31:31.09Z"
             }
           ]
         }

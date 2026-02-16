@@ -28,19 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
+            label1 = new Label();
             SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(351, 210);
+            label1.Name = "label1";
+            label1.Size = new Size(76, 30);
+            label1.TabIndex = 1;
+            label1.Text = "Ayuda";
             // 
             // FrmAyuda
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "FrmAyuda";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "FrmAyuda";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label1;
     }
 }
